@@ -2,13 +2,13 @@
 <script id="1000">
     var xhr = new XMLHttpRequest()
     xhr.responseType = 'blob';
-    xhr.open('GET', "http://localhost:5006/buffalo_sales/autoload.js?bokeh-autoload-element=1000&bokeh-app-path=/buffalo_sales&bokeh-absolute-url=http://localhost:5006/buffalo_sales", true);
+    xhr.open('GET', "http://dylansabuda.com:8080/buffalo_sales/autoload.js?bokeh-autoload-element=1000&bokeh-app-path=/buffalo_sales&bokeh-absolute-url=http://dylansabuda.com:8080/buffalo_sales", true);
     
     xhr.onload = function (event) {
-        var script = document.createElement('script'),
-        src = URL.createObjectURL(event.target.response);
-        script.src = src;
-        document.body.appendChild(script);
+      var script = document.createElement('script'),
+      src = URL.createObjectURL(event.target.response);
+      script.src = src;
+      document.body.appendChild(script);
     };
-    xhr.send();
-</script>
+  xhr.send();
+  </script>
