@@ -8,18 +8,14 @@
     <language>en</language>
     <copyright>&amp;copy; 2021 D. Sabuda
 </copyright>
-    <lastBuildDate>Tue, 23 Mar 2021 16:31:14 -0400</lastBuildDate>
-    
-	<atom:link href="/authors/dylan/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 23 Mar 2021 16:31:14 -0400</lastBuildDate><atom:link href="/authors/dylan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Housing Sales</title>
       <link>/posts/housing-sales/</link>
       <pubDate>Tue, 23 Mar 2021 16:31:14 -0400</pubDate>
       
       <guid>/posts/housing-sales/</guid>
-      <description>A visualization of Property Sales in Buffalo, NY asdadsasd</description>
+      <description>A visualization of Property Sales in Buffalo, NY</description>
     </item>
     
   </channel>

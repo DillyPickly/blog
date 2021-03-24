@@ -1,7 +1,6 @@
 ---
 title: "Housing Sales"
-summary: A visualization of Property Sales in Buffalo, NY asdadsasd
-description: zxczcxcx
+summary: A visualization of Property Sales in Buffalo, NY
 featuredImage: images/housing_sales_thumbnail.jpg
 toc: true
 authors:
