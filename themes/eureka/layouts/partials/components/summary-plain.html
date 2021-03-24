@@ -1,4 +1,4 @@
-<div class="flex flex-col-reverse lg:flex-row justify-between">
+<div class="flex flex-col-reverse md:flex-row justify-between"> <!-- changed by dylan -->
   {{ $featured := partial "utils/get-featured" . }}
   <div class="w-full {{ with $featured }}lg:w-2/3{{ end }}">
     {{ partial "utils/get-summary" . }}

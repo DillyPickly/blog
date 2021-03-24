@@ -1,7 +1,8 @@
 ---
 title: "Housing Sales"
-summary: A visualization of Property Sales in Buffalo, NY 
-
+summary: A visualization of Property Sales in Buffalo, NY asdadsasd
+description: zxczcxcx
+featuredImage: images/housing_sales_thumbnail.jpg
 toc: true
 authors:
     - dylan
@@ -12,12 +13,14 @@ categories:
     - visualization
 series:
 date: 2021-03-23T16:31:14-04:00
-draft: true
+draft: false
 ---
-
 
 ## A Visualization of Property Sales in Buffalo, NY
 
-#### Using data from the City of Buffalo -- 2020-2021 Assesment Roll, I created this visualization of the most recent sale of all
-
 {{< housing_sales >}}
+
+
+---
+
+[Current-2020-2021-Assessment-Roll](https://data.buffalony.gov/Government/Current-2020-2021-Assessment-Roll/4t8s-9yihhttps://data.buffalony.gov/Government/Current-2020-2021-Assessment-Roll)

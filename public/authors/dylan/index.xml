@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dylan Sabuda on Dylan&#39;s Blog</title>
+    <link>/authors/dylan/</link>
+    <description>Recent content in Dylan Sabuda on Dylan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021 D. Sabuda
+</copyright>
+    <lastBuildDate>Tue, 23 Mar 2021 16:31:14 -0400</lastBuildDate>
+    
+	<atom:link href="/authors/dylan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Housing Sales</title>
+      <link>/posts/housing-sales/</link>
+      <pubDate>Tue, 23 Mar 2021 16:31:14 -0400</pubDate>
+      
+      <guid>/posts/housing-sales/</guid>
+      <description>A visualization of Property Sales in Buffalo, NY asdadsasd</description>
+    </item>
+    
+  </channel>
+</rss>
