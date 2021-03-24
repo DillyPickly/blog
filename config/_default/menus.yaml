@@ -1,0 +1,7 @@
+main:
+  - name: Posts
+    url: /posts/
+    weight: 1
+  - name: About
+    url: '/authors/dylan/'
+    weight: 2
