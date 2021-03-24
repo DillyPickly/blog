@@ -7,6 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021 D. Sabuda
-</copyright><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+</copyright>
+    
+	<atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
